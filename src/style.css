@@ -1,0 +1,25 @@
+:root {
+    --dropdown-font: 1.5rem;
+    --dropdown-color:  #68B684;
+    --dropdown-hover: #4F9669;
+    --drop-color: #f9f9f9;
+    --drop-hover: #aaaaaa;
+    --navbar-color: var(--dropdown-color);
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.f{
+    display: flex;
+}
+.navHome{
+    display: flex;
+    width: 100%;
+    background-color: var(--dropdown-color);
+}
+
+.test{
+    display: flex;
+}
